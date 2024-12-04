@@ -1,0 +1,7 @@
+.Switch{
+    border: 2px solid #fff;
+    padding: 4rem;
+}
+.on{
+    background-color: blue;
+}
